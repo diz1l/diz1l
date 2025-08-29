@@ -16,7 +16,7 @@ Focused on building responsive interfaces and writing clean, maintainable code.
 ## 🛠️ Skills
 
 **Frontend:**  
-HTML5 • CSS3 (Flexbox, Grid) • JavaScript (ES6+) • React  
+HTML5 • CSS3 (Flexbox, Grid) • SCSS • JavaScript (ES6+) • TS • React • Vite
 
 **Backend (basics):**  
 Node.js • Express  
@@ -33,7 +33,8 @@ Check out my repositories here: [github.com/diz1l](https://github.com/diz1l?tab=
 
 ## 📬 Contact
 - GitHub: [diz1l](https://github.com/diz1l)  
-- (add email / LinkedIn / Telegram if you want)
+- Email - [diasdiasnur@gmail.com]
+- LinkedIn - [dias-nur] (https://www.linkedin.com/in/dias-nur/)
 
 ---
 
