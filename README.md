@@ -1,52 +1,70 @@
-## Hi there 👋, I'm Dias Nurgaliyev  
+# Hi there 👋, I'm Dias Nurgaliyev
 
-23 y.o. Frontend developer with some software development experience.  
-Focused on building responsive interfaces and writing clean, maintainable code.  
+**Frontend Developer** | Prague, Czech Republic  
+B.Sc. Applied Informatics @ VSFS Prague (graduating mid-2026)
+
+3+ years of hands-on experience — from a junior role at LLP Rating to freelance projects for real clients across Kazakhstan and Europe.
 
 ---
 
 ## 📌 About me
-- Age: 23  
-- Main focus: Frontend development  
-- Also interested in: software and backend development  
-- Goal: grow as a developer and work on useful products  
+
+- 24 y.o., based in Prague
+- Main focus: Frontend development (React + TypeScript)
+- Finishing B.Sc. in Applied Informatics at VSFS Prague
+- Comfortable working with AI tools daily for debugging and productivity
+- Available immediately
 
 ---
 
 ## 🛠️ Skills
 
 **Frontend:**  
-HTML5 • CSS3 (Flexbox, Grid) • SCSS • JavaScript (ES6+) • TS • React • Vite
+React 18 • Next.js • TypeScript • JavaScript ES6+ • HTML5 • CSS3 • SCSS • Tailwind • CSS Modules • Vite
+
+**State & API:**  
+Redux Toolkit • RTK Query • Zustand • Context API • REST • Axios • React Hook Form • Zod
 
 **Backend (basics):**  
-Node.js • Express  
+Node.js • Express • SQL • Python • C++
 
-**Other:**  
-Git • GitHub • TypeScript (learning) • Python • C++ (basic)  
+**Tooling:**  
+Git • GitHub Actions • CI/CD(basics) • Vite • Vercel • Jest • Cypress(basics) • Storybook(basics)
+
+**Architecture:**  
+Feature-Sliced Design • Code splitting • Lazy loading • i18n
+
+---
+
+## 💼 Experience
+
+**Front-End Developer** — Freelance, Remote (Jun 2022 – Dec 2025)  
+Shipped 6 production projects (landing pages, SPAs, e-commerce) with React + TypeScript + Tailwind.  
+Clients: Pushkin Regional Library, UKHPC, and others.
+
+**Front-End Developer** — LLP Rating, Ust-Kamenogorsk, KZ (Feb 2021 – May 2022)  
+Built and maintained corporate websites; cut page load ~30% via lazy loading and asset optimisation.
 
 ---
 
 ## 📂 Projects
-Check out my repositories here: [github.com/diz1l](https://github.com/diz1l?tab=repositories)
+
+| Project | Stack | Link |
+|---------|-------|------|
+| **Task Manager SPA** | React • TypeScript • Zustand • Vite • SCSS | [Repo](https://github.com/diz1l/Task-Manager) |
+| **Bachelor's Thesis — IS** | React • TypeScript • REST API | [Repo](https://github.com/diz1l/Bakalarsky_projekt) |
+| **React Production Project** | React 18 • Redux Toolkit • RTK Query • FSD | [Repo](https://github.com/diz1l/React-production-project) |
+
+---
+
+## 🌍 Languages
+
+Russian — Native | Kazakh — Native | Czech — B2 | English — B2
 
 ---
 
 ## 📬 Contact
-- GitHub: [diz1l](https://github.com/diz1l)  
-- Email - [diasdiasnur@gmail.com]
-- LinkedIn - [dias-nur] (https://www.linkedin.com/in/dias-nur/)
 
----
-
-## 🚀 Next steps
-- Improve TypeScript and Next.js  
-- Learn GraphQL and APIs more deeply  
-- Get better at backend with Node.js  
-- Build larger projects with real-world features  
-
----
-
-## 📊 GitHub Stats
-
-![Dias's GitHub stats](https://github-readme-stats.vercel.app/api?username=diz1l&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diz1l&layout=compact&theme=default)  
+- GitHub: [diz1l](https://github.com/diz1l)
+- Email: [diasdiasnur@gmail.com](mailto:diasdiasnur@gmail.com)
+- LinkedIn: [diasnurgaliyev](https://www.linkedin.com/in/diasnurgaliyev/)
